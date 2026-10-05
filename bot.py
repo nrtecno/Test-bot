@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # Yahan apna bot token daalein (BotFather se milega)
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8805213032:AAHn4fusZduycG_VhRdZLFpASJimqK4zyUs"
 
 # Aapka channel username (bina @ ke)
 CHANNEL_USERNAME = "nr_hackz"
